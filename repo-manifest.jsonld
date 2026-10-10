@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/cbor2/commit/6dc0c6b426c7407c5197fc2dc226c9dd0f27ef33",
       "git:hexsha": "6dc0c6b426c7407c5197fc2dc226c9dd0f27ef33",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:17:04.142327+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/cbor2/commit/9d747efcee4d732ecede875a353adc1db9eb3935",
