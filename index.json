@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "cbor2",
+  "versions": [
+    {
+      "commit": "6dc0c6b426c7407c5197fc2dc226c9dd0f27ef33",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:17:04.181780+00:00"
+    }
+  ]
+}
